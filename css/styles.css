@@ -6,12 +6,18 @@ body {
 .page-text-logo {
   font-family: "Raleway";
   font-size: 18px;
+  color: #2e2f42;
   line-height: 1.16667;
   letter-spacing: 3%;
   vertical-align: middle;
   text-transform: uppercase;
   text-decoration: none;
 }
+
+footer .page-text-logo {
+  color: #f4f4fd;
+}
+
 .page-text-logo-web {
   color: #4d5ae5;
 }
